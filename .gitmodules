@@ -1,0 +1,3 @@
+[submodule "octive-activities"]
+	path = octive-activities
+	url = git@github.com:blindbashar/octive-activities.git
