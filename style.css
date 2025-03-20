@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* General Body Styles */
 body {
     background-color: #939393; /* Your starting color - a medium gray */
@@ -88,3 +89,8 @@ footer {
     h1 { font-size: 2em; }    /* Slightly smaller headings on mobile */
     h2 { font-size: 1.6em; }
 }
+=======
+body {
+	background-color: #939393;
+	}
+>>>>>>> 2cf0d9d987dea039b950592fd7d6c32567815d08
