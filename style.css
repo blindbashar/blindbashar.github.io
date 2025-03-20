@@ -3,7 +3,10 @@
 body {
     background-color: #939393; /* Your starting color - a medium gray */
     color: #1a1a1a;          /* Dark gray for text - good contrast */
-    font-family: 'Helvetica Neue', Arial, sans-serif; /* Clean, classic sans-serif */
+		font-family: "Roboto Mono", monospace;
+		font-optical-sizing: auto;
+		/* font-weight: <weight>; */
+		font-style: normal;
     margin: 0;               /* Remove default body margin */
     padding: 0;               /* Remove default body padding */
     line-height: 1.6;        /* Improve readability of text */
